@@ -1,7 +1,7 @@
 # Problem Statement
 A consumer finance company specializing in urban loans faces challenges in assessing the creditworthiness of applicants due to insufficient or non-existent credit histories. This results in potential defaulters exploiting the system, leading to loan defaults and financial losses. The company seeks to optimize its lending process by leveraging exploratory data analysis (EDA) to detect patterns in customer data that indicate difficulties in loan repayment.
 
-The goal of this analysis is to:
+# Goal
 
 - Identify high-risk applicants who are more likely to default on loans.
 - Recommend actions such as loan denial, offering smaller loan amounts, or charging higher interest rates to risky applicants.
